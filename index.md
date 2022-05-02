@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Paulo Henrique 
+
+Meu nome é Paulo Henrique - temho 17 anos e godto de jogos online, principalmente jogod de FPS - interesse em apremder criação de sites. 
+Objetivo atualmente - concluir o ensino médio e concluir o ano com uma assistencia tecníca. Atualmente trabalho em uma assistemcia técnica de celulares 
+## Curso técnico formativo - asstencia técnica em celurares
+## Curso formativo - Especialização em Hardwere Iphone 
+## curso técnico de photoshop ( Básico ) 
 
 You can use the [editor on GitHub](https://github.com/poderzin/portfolio-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Meus hobbies 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gosto de passar meu tempo livre jogando e estudando sobre meu trabalho
+Gosto de estudar novas técnicas do meu trabalho também.
 
 ```markdown
 Syntax highlighted code block
@@ -35,3 +42,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
